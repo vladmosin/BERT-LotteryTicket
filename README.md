@@ -4,3 +4,4 @@
 * [The Lottery Ticket Hypothesis for Pre-trained BERT Networks](https://arxiv.org/pdf/2007.12223.pdf)
 * [Rigging the Lottery: Making All Tickets Winners](https://arxiv.org/pdf/1911.11134.pdf)
 * [PLAYING THE LOTTERY WITH REWARDS AND MULTIPLE LANGUAGES: LOTTERY TICKETS IN RL AND NLP](https://arxiv.org/pdf/1906.02768.pdf)
+* [An Overview of Multi-Task Learning in Deep Neural Networks](https://arxiv.org/pdf/1706.05098.pdf)
